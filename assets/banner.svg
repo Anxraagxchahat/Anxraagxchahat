@@ -1,0 +1,146 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#161B22"/>
+</linearGradient>
+
+<linearGradient id="accent" x1="0" y1="0" x2="600" y2="0">
+<stop offset="0%" stop-color="#58A6FF"/>
+<stop offset="100%" stop-color="#7C3AED"/>
+</linearGradient>
+
+<filter id="blur">
+<feGaussianBlur stdDeviation="70"/>
+</filter>
+
+</defs>
+
+<rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+
+<circle cx="1120" cy="70" r="120" fill="#58A6FF" opacity=".18" filter="url(#blur)"/>
+
+<circle cx="980" cy="250" r="90" fill="#7C3AED" opacity=".15" filter="url(#blur)"/>
+
+<text
+x="70"
+y="95"
+fill="url(#accent)"
+font-size="48"
+font-family="Segoe UI"
+font-weight="700">
+
+Anurag Verma
+
+</text>
+
+<text
+x="70"
+y="140"
+fill="#C9D1D9"
+font-size="22"
+font-family="Segoe UI">
+
+Full Stack Developer • AI Builder • Founder @ OpportunityX
+
+</text>
+
+<text
+x="70"
+y="205"
+fill="#58A6FF"
+font-size="34"
+font-family="Segoe UI"
+font-weight="600">
+
+Discover.
+
+</text>
+
+<text
+x="235"
+y="205"
+fill="#58A6FF"
+font-size="34"
+font-family="Segoe UI"
+font-weight="600">
+
+Apply.
+
+</text>
+
+<text
+x="365"
+y="205"
+fill="#58A6FF"
+font-size="34"
+font-family="Segoe UI"
+font-weight="600">
+
+Grow.
+
+</text>
+
+<rect
+x="70"
+y="235"
+rx="18"
+width="210"
+height="44"
+fill="#161B22"
+stroke="#30363D"/>
+
+<text
+x="95"
+y="263"
+fill="#58A6FF"
+font-size="18"
+font-family="Segoe UI">
+
+🚀 Building OpportunityX
+
+</text>
+
+<rect
+x="300"
+y="235"
+rx="18"
+width="170"
+height="44"
+fill="#161B22"
+stroke="#30363D"/>
+
+<text
+x="325"
+y="263"
+fill="#58A6FF"
+font-size="18"
+font-family="Segoe UI">
+
+🤖 AI Builder
+
+</text>
+
+<circle
+cx="1110"
+cy="160"
+r="75"
+fill="#161B22"
+stroke="#58A6FF"
+stroke-width="3"/>
+
+<text
+x="1078"
+y="172"
+fill="#58A6FF"
+font-size="34"
+font-family="Segoe UI"
+font-weight="700">
+
+AV
+
+</text>
+
+</svg>
