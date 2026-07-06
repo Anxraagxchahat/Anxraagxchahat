@@ -88,13 +88,11 @@ Git • GitHub • VS Code • Figma
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anxraagxchahat&theme=github_dark&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anxraagxchahat&theme=github-dark&hide_border=true"/>
 </p>
-
----
 
 # 🎯 Roadmap
 
