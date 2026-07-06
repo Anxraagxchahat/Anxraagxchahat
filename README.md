@@ -110,7 +110,7 @@ Git • GitHub • VS Code • Figma
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -118,14 +118,27 @@ Git • GitHub • VS Code • Figma
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/anurag-verma-388238246/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Anxrag_verma">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pandaxchahat/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.reddit.com/user/4nxraag/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
 <a href="https://opportunityx.co.in">
-<img src="https://img.shields.io/badge/OpportunityX-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpportunityX-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
-
----
-
 <p align="center">
 <b>Discover.</b> • <b>Apply.</b> • <b>Grow.</b>
 </p>
