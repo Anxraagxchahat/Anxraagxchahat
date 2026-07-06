@@ -91,7 +91,7 @@ Git • GitHub • VS Code • Figma
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anxraagxchahat&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anxraagxchahat&theme=github_dark&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
