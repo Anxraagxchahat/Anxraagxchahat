@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Verma</h1>
+<h1 align="center">Anurag Verma • Full Stack Developer</h1>
 
 <h3 align="center">Full Stack Developer • AI Builder • Founder of OpportunityX</h3>
 
