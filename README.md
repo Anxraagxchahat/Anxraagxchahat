@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/banner.svg" width="100%">
+  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
