@@ -1,146 +1,77 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-<defs>
+  <defs>
 
-<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320">
-<stop offset="0%" stop-color="#0D1117"/>
-<stop offset="100%" stop-color="#161B22"/>
-</linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
 
-<linearGradient id="accent" x1="0" y1="0" x2="600" y2="0">
-<stop offset="0%" stop-color="#58A6FF"/>
-<stop offset="100%" stop-color="#7C3AED"/>
-</linearGradient>
+    <radialGradient id="blueGlow">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
 
-<filter id="blur">
-<feGaussianBlur stdDeviation="70"/>
-</filter>
+    <radialGradient id="purpleGlow">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
 
-</defs>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="90"/>
+    </filter>
 
-<rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  </defs>
 
-<circle cx="1120" cy="70" r="120" fill="#58A6FF" opacity=".18" filter="url(#blur)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
 
-<circle cx="980" cy="250" r="90" fill="#7C3AED" opacity=".15" filter="url(#blur)"/>
+  <!-- Glow -->
+  <circle cx="1080" cy="70" r="170" fill="url(#blueGlow)" filter="url(#blur)"/>
+  <circle cx="240" cy="280" r="140" fill="url(#purpleGlow)" filter="url(#blur)"/>
 
-<text
-x="70"
-y="95"
-fill="url(#accent)"
-font-size="48"
-font-family="Segoe UI"
-font-weight="700">
+  <!-- Decorative lines -->
+  <line x1="70" y1="70" x2="1210" y2="70" stroke="#1F2937"/>
+  <line x1="70" y1="250" x2="1210" y2="250" stroke="#1F2937"/>
 
-Anurag Verma
+  <!-- Name -->
+  <text
+    x="640"
+    y="120"
+    text-anchor="middle"
+    fill="#F8FAFC"
+    font-size="52"
+    font-weight="700"
+    font-family="Segoe UI, Arial">
 
-</text>
+    Anurag Verma
 
-<text
-x="70"
-y="140"
-fill="#C9D1D9"
-font-size="22"
-font-family="Segoe UI">
+  </text>
 
-Full Stack Developer • AI Builder • Founder @ OpportunityX
+  <!-- Subtitle -->
+  <text
+    x="640"
+    y="160"
+    text-anchor="middle"
+    fill="#9CA3AF"
+    font-size="22"
+    font-family="Segoe UI, Arial">
 
-</text>
+    Full Stack Developer • AI Builder • Founder @ OpportunityX
 
-<text
-x="70"
-y="205"
-fill="#58A6FF"
-font-size="34"
-font-family="Segoe UI"
-font-weight="600">
+  </text>
 
-Discover.
+  <!-- Tagline -->
+  <text
+    x="640"
+    y="210"
+    text-anchor="middle"
+    fill="#60A5FA"
+    font-size="30"
+    font-weight="600"
+    font-family="Segoe UI, Arial">
 
-</text>
+    Discover. Apply. Grow.
 
-<text
-x="235"
-y="205"
-fill="#58A6FF"
-font-size="34"
-font-family="Segoe UI"
-font-weight="600">
-
-Apply.
-
-</text>
-
-<text
-x="365"
-y="205"
-fill="#58A6FF"
-font-size="34"
-font-family="Segoe UI"
-font-weight="600">
-
-Grow.
-
-</text>
-
-<rect
-x="70"
-y="235"
-rx="18"
-width="210"
-height="44"
-fill="#161B22"
-stroke="#30363D"/>
-
-<text
-x="95"
-y="263"
-fill="#58A6FF"
-font-size="18"
-font-family="Segoe UI">
-
-🚀 Building OpportunityX
-
-</text>
-
-<rect
-x="300"
-y="235"
-rx="18"
-width="170"
-height="44"
-fill="#161B22"
-stroke="#30363D"/>
-
-<text
-x="325"
-y="263"
-fill="#58A6FF"
-font-size="18"
-font-family="Segoe UI">
-
-🤖 AI Builder
-
-</text>
-
-<circle
-cx="1110"
-cy="160"
-r="75"
-fill="#161B22"
-stroke="#58A6FF"
-stroke-width="3"/>
-
-<text
-x="1078"
-y="172"
-fill="#58A6FF"
-font-size="34"
-font-family="Segoe UI"
-font-weight="700">
-
-AV
-
-</text>
+  </text>
 
 </svg>
