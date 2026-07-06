@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./assets/banner.svg" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
 <h3 align="center">Full Stack Developer • AI Builder • Founder of OpportunityX</h3>
