@@ -86,10 +86,14 @@ Git • GitHub • VS Code • Figma
 ---
 ---
 
+---
+
 # 📈 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
+
+<img src="./github-metrics.svg"/>
+
 </p>
 
 ## 📈 Contribution Graph
