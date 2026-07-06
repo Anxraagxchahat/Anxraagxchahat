@@ -93,6 +93,13 @@ Git • GitHub • VS Code • Figma
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anxraagxchahat&theme=github-dark&hide_border=true"/>
 </p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anxraagxchahat/Anxraagxchahat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 🎯 Roadmap
 
