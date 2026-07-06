@@ -7,19 +7,16 @@ Building products that help students <b>Discover, Apply and Grow.</b>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anxraagxchahat&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Builder;Founder+of+OpportunityX;Building+Products+That+Matter;Discover.+Apply.+Grow."/>
-</p>
+<img src="https://img.shields.io/badge/Founder-OpportunityX-2563EB?style=for-the-badge"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Building-OpportunityX-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-AI%20%26%20ML-orange?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-0EA5E9?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/AI-Builder-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-16A34A?style=for-the-badge"/>
+
+</p>
 ---
 
 # 🚀 About Me
