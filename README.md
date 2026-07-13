@@ -1,23 +1,27 @@
-<h1 align="center">Anurag Verma • Full Stack Developer</h1>
+<h1 align="center">Anurag Verma</h1>
 
-<h3 align="center">Full Stack Developer • AI Builder • Founder of OpportunityX</h3>
+<h3 align="center">
+Full Stack Developer • AI Builder • Founder @ OpportunityX
+</h3>
 
 <p align="center">
 Building products that help students <b>Discover, Apply and Grow.</b>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Founder-OpportunityX-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Builder-9333EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-16A34A?style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=Anxraagxchahat&label=Profile%20Views&color=2563EB&style=flat"/>
 </p>
----
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&center=true&vCenter=true&width=650&lines=Founder+%40+OpportunityX;Full+Stack+Developer;Building+AI+Products;Open+Source+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Founder-OpportunityX-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Builder-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-16A34A?style=for-the-badge"/>
+</p>
 
 # 🚀 About Me
 
