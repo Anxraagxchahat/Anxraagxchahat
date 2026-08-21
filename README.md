@@ -1,192 +1,162 @@
 <div align="center">
 
-# ✦ ANURAG VERMA
+# ANURAG VERMA
 
-### Full Stack Developer · AI Builder · Founder @ OpportunityX
+### Full Stack Developer · AI Builder · Product Founder
 
-<p>
-  <a href="https://opportunityx.co.in"><img src="https://img.shields.io/badge/OpportunityX-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F5B942" /></a>
-  <a href="https://github.com/Anxraagxchahat"><img src="https://komarev.com/ghpvc/?username=Anxraagxchahat&label=Profile%20Views&color=0D1117&style=for-the-badge" /></a>
-</p>
+Building products at the intersection of **software, AI & real-world problems.**
 
-> Building useful things, experimenting with AI, and shipping products that solve real problems.
+<br/>
 
-</div>
-
----
-
-## 🪐 The Lab
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="70%">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=F5B942&center=true&vCenter=true&width=650&lines=FULL+STACK+%2B+AI;TURNING+IDEAS+INTO+PRODUCTS;BUILD+%E2%86%92+TEST+%E2%86%92+LEARN+%E2%86%92+SHIP;ALWAYS+BUILDING+SOMETHING+NEW+%F0%9F%9A%80" alt="Typing animation" />
-
-</td>
-<td align="center" width="30%">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Animated panda" />
-
-<sub>🐼 Tiny panda.<br/>Big ideas.</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> **Asset fallback:** GitHub README images are loaded remotely. Some GIFs or generated charts may occasionally fail because of an external host or request limit. The README is intentionally structured so the content still works without them.
-
----
-
-## ⚡ About
-
-I'm **Anurag Verma**, a developer focused on **full-stack products, AI-powered experiences, and developer tools**.
-
-- 🚀 Building **OpportunityX**
-- 💻 Full Stack Development
-- 🤖 Exploring AI / Machine Learning
-- 🧩 Turning ideas into usable products
-- 🌱 Learning by building and shipping
-
-<div align="center">
-
-`IDEA` → `BUILD` → `TEST` → `ITERATE` → `SHIP`
+<a href="https://opportunityx.co.in">
+<img src="https://img.shields.io/badge/OpportunityX-111827?style=flat-square&logo=googlechrome&logoColor=F5B942" />
+</a>
+&nbsp;
+<a href="https://github.com/Anxraagxchahat">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=ffffff" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `01` — About
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm **Anurag Verma**, a BCA (Data Science & AI) student and product builder focused on creating practical software rather than just writing code.
+
+Currently building **OpportunityX**, an AI-powered Student Career OS designed to help students discover and act on internships, hackathons, scholarships and other career opportunities.
+
+My interests sit around:
+
+`Full Stack Development` · `AI / ML` · `Automation` · `Product Engineering`
+
+> **Build something useful. Make it better. Ship it.**
+
+---
+
+## `02` — What I'm Building
 
 ### 🟠 OpportunityX
-AI-powered career platform for students.
 
-**Discover · Apply · Grow**
+**AI-powered Student Career OS**
 
-Hackathons · Internships · Scholarships · Jobs · Competitions
+A platform bringing student opportunities into one place.
 
-</td>
-<td width="50%" valign="top">
+* 350+ live opportunities
+* 18+ opportunity sources
+* 200+ active users during beta
+* Resume analysis & ATS scoring
+* Opportunity discovery
+* Career-focused tools & community features
 
-### 🌐 Portfolio
-A premium developer portfolio focused on clean interfaces, motion and interactive experiences.
+**Stack:** React · Vite · FastAPI · Firebase · Firestore · GitHub Actions
 
-**UI/UX · Performance · Motion · 3D**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🎌 Zenkai
-Anime discovery and tracking experience designed around modern product UX.
 
-**Discovery · Tracking · Recommendations**
+Anime discovery experience focused on modern product UX, discovery and personalized recommendations.
 
-</td>
-<td width="50%" valign="top">
+**Focus:** Product Design · Discovery · Recommendations · UX
 
-### 🔌 API Explorer
-Developer tooling for discovering, testing and working with APIs.
+<br/>
 
-**Discovery · Testing · Productivity**
+### 🤖 Automation & Developer Tools
 
-</td>
-</tr>
-</table>
+I also build smaller systems around **APIs, automation and data aggregation** — including opportunity alert systems, Telegram bots and developer tooling.
 
 ---
 
-## 🧰 Tech Stack
+## `03` — Tech
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,fastapi,firebase,postgres,mongodb,git,github,vscode,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,vite,nextjs,tailwind,nodejs,fastapi,firebase,postgres,mongodb,git,github,githubactions,vscode,figma&perline=9" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `04` — GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anxraagxchahat&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxraagxchahat&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anxraagxchahat&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxraagxchahat&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Anxraagxchahat&theme=github-dark-blue&hide_border=true" width="70%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Anxraagxchahat&theme=github-dark-blue&hide_border=true" width="60%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `05` — Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anxraagxchahat&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anxraagxchahat&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="94%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `06` — Currently
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anxraagxchahat/Anxraagxchahat/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="96%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| | Focus |
-|:--:|:---|
-| 🚀 | Building OpportunityX |
-| 🧠 | AI / Machine Learning |
-| 🌐 | Premium web experiences |
-| 🛠️ | Developer tools & automation |
-| 🌱 | Open source & continuous learning |
-
-</div>
+```text
+→ Building        OpportunityX
+→ Learning        AI / Machine Learning
+→ Exploring       Full Stack Architecture
+→ Experimenting   Automation & APIs
+→ Improving       Product Design & UX
+```
 
 ---
 
-## 🌍 Connect
+## `07` — Beyond Code
 
-<div align="center">
+I enjoy turning rough ideas into working products.
 
-<a href="https://github.com/Anxraagxchahat"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anurag-verma-388238246/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://x.com/Anxrag_verma"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/pandaxchahat/"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://www.reddit.com/user/4nxraag/"><img src="https://img.shields.io/badge/Reddit-111827?style=for-the-badge&logo=reddit&logoColor=FF4500" /></a>
-<a href="https://opportunityx.co.in"><img src="https://img.shields.io/badge/OpportunityX-111827?style=for-the-badge&logo=googlechrome&logoColor=F5B942" /></a>
+That means:
 
-</div>
+**Idea → Architecture → Code → Test → Deploy → Improve**
+
+Not everything I build becomes a product.
+
+But everything I build teaches me something.
 
 ---
 
+## `08` — Connect
+
 <div align="center">
 
-### ✦ BUILD WITH INTENT
+<a href="https://github.com/Anxraagxchahat">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-`Discover` · `Create` · `Experiment` · `Ship`
+<a href="https://www.linkedin.com/in/anurag-verma-388238246/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
-<sub>Made with curiosity, caffeine & 🐼 energy.</sub>
+<a href="https://x.com/Anxrag_verma">
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://opportunityx.co.in">
+<img src="https://img.shields.io/badge/OpportunityX-111827?style=for-the-badge&logo=googlechrome&logoColor=F5B942"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### BUILD. BREAK. LEARN. REBUILD.
+
+<sub>Still experimenting. Still shipping. 🚀</sub>
 
 </div>
